@@ -90,7 +90,7 @@ Parameters, metrics and the trained model are logged with MLflow (run name `xgb_
 Databricks, PySpark, Spark SQL, Delta Lake, Unity Catalog, MLflow, XGBoost, scikit-learn, pandas, NumPy
 
 ## Repo contents
-- `New_Notebook_2026-10-31_23_20_58.ipynb`: the full Databricks notebook (cleaning, features, SQL, training)
+- `nyc_taxi_databricks.ipynb`: the full Databricks notebook (cleaning, features, SQL, training)
 - `README.md`: this file
 
 ## Data
